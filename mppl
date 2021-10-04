@@ -1,0 +1,12 @@
+#Metode waterfall
+Waterfall merupakan metode pengembangan perangkat lunak tradisional yang sistematis.
+Metode ini memiliki lima tahapan proses, di antaranya Communication, Planning, Modeling, Construction, dan Deployment.
+
+#Metode Prototype
+Prototype dalam bahasa Indonesia diartikan dengan istilah purwarupa.
+Istilah tersebut berarti model awal atau rancangan sementara yang masih membutuhkan berbagai penyesuaian sebelum dinyatakan telah memenuhi hasil yang diinginkan.
+
+#Metode Spiral
+Metode spiral menggabungkan dua metode pengembangan yang telah dibahas sebelumnya, yaitu prototype dan waterfall.
+Umumnya metode spiral diterapkan dalam pengembangan perangkat lunak berskala besar, sekaligus membutuhkan sistem yang kompleks.
+Setiap prosesnya selalu disertai dengan analisis mendalam mengenai tingkat risiko dan keberhasilan pengembangan.
